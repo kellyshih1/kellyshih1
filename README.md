@@ -7,4 +7,14 @@ I’m passionate about **AI, software development, and human-centered computing*
 - 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/kelly-shih-yc/)
 
 ---
+### 🌱 About Me
+- 🎓 Student at NTHU  
+- 💡 Interested in **AI applications**, **NLP**, and **intelligent automation**  
+- 💬 Always excited to explore the intersection of technology and creativity  
+
+---
+
+### ⚙️ Tech Stack
+**Languages:** Python, C/C++, C#, JavaScript, TypeScript, SQL, Verilog  
+**Tools & Frameworks:** PyTorch, scikit-learn, .NET, React, Firebase  
 
