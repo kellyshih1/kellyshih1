@@ -15,6 +15,6 @@ I’m passionate about **AI, software development, and human-centered computing*
 ---
 
 ### ⚙️ Tech Stack
-**Languages:** Python, C/C++, C#, JavaScript, TypeScript, SQL, Verilog  
-**Tools & Frameworks:** PyTorch, scikit-learn, .NET, React, Firebase  
+**Languages:** Python, JavaScript, TypeScript, SQL, Verilog, C/C++, C#
+**Tools & Frameworks:** React, Firebase, PyTorch, scikit-learn, .NET
 
