@@ -15,5 +15,6 @@ I’m passionate about **AI, software development, and human-centered computing*
 ---
 ### ⚙️ Tech Stack
 **Languages:** Python, C, C++, C#, JavaScript, TypeScript, SQL, PHP, Verilog
+
 **Tools & Frameworks:** React, Next.js, NestJS, Flask, Knex.js, HTML/CSS
 
