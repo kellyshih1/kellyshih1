@@ -8,12 +8,12 @@ I’m passionate about **AI, software development, and human-centered computing*
 
 ---
 ### 🌱 About Me
-- 🎓 Student at NTHU  
+- 🎓 Currently master student at EPFL, previously bachelor at NTHU  
 - 💡 Interested in **AI applications**, **NLP**, and **intelligent automation**  
 - 💬 Always excited to explore the intersection of technology and creativity  
 
 ---
 ### ⚙️ Tech Stack
-**Languages:** Python, TypeScript, HTML, CSS, JavaScript, SQL, Verilog, C/C++, C#  
-**Tools & Frameworks:** PyTorch, React, Firebase, scikit-learn, .NET   
+**Languages:** Python, C, C++, C#, JavaScript, TypeScript, SQL, PHP, Verilog
+**Tools & Frameworks:** React, Next.js, NestJS, Flask, Knex.js, HTML/CSS
 
